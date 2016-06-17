@@ -1,3 +1,5 @@
+**NOTE: I neither use nor maintain this project anymore.**
+
 # asrt
 
 A very lightweight assertions package for Go.
